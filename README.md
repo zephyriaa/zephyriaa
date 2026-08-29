@@ -1,4 +1,4 @@
-# Aykhan K. — Aspiring Product-Minded Engineer, Student
+# Aykhan K. — Aspiring Product-Minded Engineer, Software Dev.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aykhan-kherimli-2792b7430) [![GitHub](https://img.shields.io/badge/GitHub-zephyriaa-181717?logo=github)](https://github.com/zephyriaa)
 
