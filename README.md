@@ -1,4 +1,4 @@
-# Aykhan Kherimli — Aspiring Computer Scientist & Software Engineer
+# Aykhan K. — Aspiring Computer Scientist & Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aykhan-kherimli-2792b7430) [![GitHub](https://img.shields.io/badge/GitHub-zephyriaa-181717?logo=github)](https://github.com/zephyriaa) [![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![Kotlin](https://img.shields.io/badge/Kotlin-2.0-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/) [![Linux](https://img.shields.io/badge/Linux-Systems-FCC624?logo=linux&logoColor=black)](https://kernel.org/)
 
