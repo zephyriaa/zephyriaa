@@ -1,4 +1,4 @@
-# Aykhan Kherimli — Product-Minded Engineering Thinker
+# Aykhan K. — Aspiring Product-Minded Engineer, Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aykhan-kherimli-2792b7430) [![GitHub](https://img.shields.io/badge/GitHub-zephyriaa-181717?logo=github)](https://github.com/zephyriaa)
 
