@@ -11,6 +11,7 @@
 | [quant-backtest-engine](https://github.com/zephyriaa/quant-backtest-engine) | ORB and volatility-regime research | Python, NumPy, pandas, pytest | Vectorized execution, fees, slippage, out-of-sample metrics |
 | [zmusic-android](https://github.com/zephyriaa/zmusic-android) | Reactive audio streaming interface | Kotlin, Jetpack Compose, Coroutines | UDF, StateFlow, Canvas waveform rendering, MVVM |
 | [algorithms-core](https://github.com/zephyriaa/algorithms-core) | Algorithms and data structures | Python, C++20, pytest | Graphs, DP, trees, Fenwick tree, LRU cache |
+| [zterminal](https://github.com/zephyriaa/zterminal) | Integrated trading and market-analysis terminal | Python, charting, backtesting, order flow | Unified workflow for charting, strategy development, execution research, and market analysis |
 
 ## Technical stack
 
