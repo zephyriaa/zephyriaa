@@ -2,23 +2,23 @@
 
 > whoami
 
-I’m Aykhan, a student and product-minded developer exploring how software ideas become clear, useful systems. I work across product design, application architecture, computer science, cybersecurity concepts, quantitative tools, and Android development.
+I’m Aykhan, a student focused on **engineering products**: understanding real problems, shaping useful experiences, defining systems, and directing work toward meaningful outcomes. I’m interested in the decisions behind software more than repetitive implementation for its own sake. I use code and AI-assisted tools when they help validate an idea, automate routine work, or communicate a system clearly.
 
 
 > focus
 
 ```text
-product thinking        systems design
-software architecture   computer science
-cybersecurity           quantitative tools
-Android development     AI-assisted building
+product direction       user problems
+systems design           architecture
+prioritization           technical decisions
+automation               AI-assisted building
 ```
 
 > currently
 
-`learning` → `researching` → `designing` → `building` → `testing` → `improving`
+`understand` → `define` → `prioritize` → `design` → `direct` → `validate` → `improve`
 
-I’m strengthening my foundations in Python, Git, testing, APIs, and application architecture while preparing for undergraduate study in Computer Science and Cybersecurity.
+I’m strengthening my technical foundations so I can make better product and engineering decisions, communicate clearly with developers, and understand how the systems I direct actually work. I’m preparing for undergraduate study in Computer Science and Cybersecurity.
 
 > projects
 
@@ -36,16 +36,16 @@ I’m strengthening my foundations in Python, Git, testing, APIs, and applicatio
 ```text
 understand the problem
         ↓
-map the user workflow
+define the product outcome
         ↓
-define system boundaries
+map the workflow and constraints
         ↓
-build the smallest useful prototype
+choose what deserves to be built
         ↓
-test assumptions and document the result
+direct implementation and validate the result
 ```
 
-I care about direct communication, understandable architecture, and honest project status. Some repositories are prototypes or learning projects; others are ongoing architecture studies.
+I care about product clarity, strong system boundaries, useful documentation, and honest trade-offs. My role is often to connect the user problem, product direction, and engineering plan. I prefer automating repetitive work or delegating implementation when that creates more time for decisions that require context, judgment, and creativity. Some repositories are prototypes or learning projects; others are ongoing architecture studies.
 
 > connect
 
@@ -53,11 +53,11 @@ I care about direct communication, understandable architecture, and honest proje
 
 > note
 
-This profile documents an ongoing learning process. The projects here show what I am exploring, designing, and building—not a claim that every component is production-ready.
+This profile documents an ongoing learning process. The projects here show what I am exploring, directing, and building—not a claim that every component is production-ready. My main interest is the engineering of useful products: deciding what to build, why it matters, how the system should work, and how a team can move it forward.
 
 ---
 
-*Built with curiosity. Improved through iteration.*
+*Products first. Systems clearly defined. Implementation in service of outcomes.*
 
 ## References
 
