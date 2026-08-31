@@ -1,32 +1,31 @@
-# Aykhan K. — Product-minded engineering
+# Aykhan K. — Student exploring systems design and software development.
 
-I explore how useful technology products are imagined, structured, and brought to life. My work sits at the intersection of **product thinking, systems design, computer science foundations, and AI-assisted implementation**.
+I study the intersection of product thinking, computer science foundations, and systems design. My work focuses on building functional prototypes and exploring technical concepts in cybersecurity, quantitative tools, and mobile architecture.
 
 ![Portfolio perspective](assets/readme-hero.svg)
 
-## Selected projects
+## Projects
 
-| Project | Focus |
-| --- | --- |
-| [ZTerminal](https://github.com/zephyriaa/zterminal) | A unified workspace for charting, strategy research, backtesting, order flow, and market analysis. |
-| [Quant Backtest Engine](https://github.com/zephyriaa/quant-backtest-engine) | A learning-oriented Python engine for ORB strategies and volatility regimes. |
-| [ZMusic Android](https://github.com/zephyriaa/zmusic-android) | A Kotlin and Jetpack Compose architecture study for a modern audio interface. |
-| [Algorithms Core](https://github.com/zephyriaa/algorithms-core) | A structured collection of algorithms, data structures, and tests. |
+| Project | Description | Technology |
+| --- | --- | --- |
+| [dimbalhesablama](https://github.com/zephyriaa/dimbalhesablama) | Azerbaijani web calculator for DİM exam score estimation. | TypeScript |
+| [strategy-analyzer](https://github.com/zephyriaa/strategy-analyzer) | Backtesting workspace for metrics, robustness, and risk analysis. | JavaScript / Python |
+| [zterminal](https://github.com/zephyriaa/zterminal) | Trading workspace for charts, strategy research, and order flow. | TypeScript |
+| [algorithms-core](https://github.com/zephyriaa/algorithms-core) | Test-backed study collection for algorithms and data structures. | Python / C++ |
+| [zmusic-android](https://github.com/zephyriaa/zmusic-android) | Reactive audio interface study using Jetpack Compose and MVVM. | Kotlin |
+| [quant-backtest-engine](https://github.com/zephyriaa/quant-backtest-engine) | Modular engine for ORB research and volatility analysis. | Python |
 
 ## How I work
 
-I start from the user problem, map the workflow, define system boundaries, identify risks, and then choose the smallest useful implementation. I care about making complex ideas understandable through requirements, diagrams, prototypes, and honest documentation.
+I prioritize problem definition and system boundaries before implementation. I focus on clear documentation, architectural diagrams, and building minimal viable prototypes to test technical assumptions and user workflows.
 
-## Current direction
+## Currently learning
 
-I am building foundations in Python, Git, testing, APIs, application architecture, quantitative tools, cybersecurity concepts, and Android product design while preparing for undergraduate study in Computer Science and Cybersecurity.
+I am strengthening my foundations in Python, application architecture, and cybersecurity concepts while preparing for undergraduate studies in Computer Science (Class of 2027).
 
 ## Connect
 
-The best places to connect are [LinkedIn](https://www.linkedin.com/in/aykhan-kherimli-2792b7430) and [GitHub](https://github.com/zephyriaa).
+- [LinkedIn](https://www.linkedin.com/in/aykhan-kherimli-2792b7430)
+- [GitHub](https://github.com/zephyriaa)
 
-> This profile is a record of learning and experimentation. Project descriptions distinguish product direction, architecture studies, prototypes, and production implementation wherever possible.
-
-## License
-
-See [LICENSE](LICENSE).
+This profile is a record of learning and experimentation. These repositories represent prototypes, architecture studies, and ongoing educational projects rather than production-ready software.
