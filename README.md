@@ -4,7 +4,6 @@
 
 I’m Aykhan, a student and product-minded developer exploring how software ideas become clear, useful systems. I work across product design, application architecture, computer science, cybersecurity concepts, quantitative tools, and Android development.
 
-![Portfolio perspective](assets/readme-hero.svg)
 
 > focus
 
