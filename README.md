@@ -1,73 +1,99 @@
-# Aykhan K. · `zephyriaa`
+<div align="center">
 
-> whoami
+# Aykhan Kherimli
+### Systems Engineer • Quantitative Modeling Researcher • Desktop Utility Architect
 
-I’m Aykhan, a student focused on **engineering products**: understanding real problems, shaping useful experiences, defining systems, and directing work toward meaningful outcomes. I’m interested in the decisions behind software more than repetitive implementation for its own sake. I use code and AI-assisted tools when they help validate an idea, automate routine work, or communicate a system clearly.
+[![GitHub](https://img.shields.io/badge/GitHub-zephyriaa-181717?style=flat-square&logo=github)](https://github.com/zephyriaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aykhan%20Kherimli-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aykhan-kherimli-2792b7430)
+[![Email](https://img.shields.io/badge/Email-novalesss%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:novalesss@proton.me)
 
+<br />
 
-> focus
+> *"Understand the real problem. Build with precision. Respect system boundaries."*
 
-```text
-product direction       user problems
-systems design           architecture
-prioritization           technical decisions
-automation               AI-assisted building
-```
-
-> currently
-
-`understand` → `define` → `prioritize` → `design` → `direct` → `validate` → `improve`
-
-I’m strengthening my technical foundations so I can make better product and engineering decisions, communicate clearly with developers, and understand how the systems I direct actually work. I’m preparing for undergraduate study in Computer Science and Cybersecurity.
-
-> projects
-
-| Repository | What it is | Stack |
-| --- | --- | --- |
-| [`dimbalhesablama`](https://github.com/zephyriaa/dimbalhesablama) | Azerbaijani DİM exam score calculator. | TypeScript |
-| [`strategy-analyzer`](https://github.com/zephyriaa/strategy-analyzer) | Backtesting workspace for metrics, validation, and risk analysis. | JavaScript · Python |
-| [`zterminal`](https://github.com/zephyriaa/zterminal) | Trading workspace for charts, strategy research, backtesting, and order flow. | TypeScript |
-| [`algorithms-core`](https://github.com/zephyriaa/algorithms-core) | Test-backed implementations of algorithms and data structures. | Python · C++ |
-| [`zmusic-android`](https://github.com/zephyriaa/zmusic-android) | Reactive Android audio interface built around Compose and MVVM. | Kotlin |
-| [`quant-backtest-engine`](https://github.com/zephyriaa/quant-backtest-engine) | Modular engine for ORB research and volatility-regime analysis. | Python |
-
-> how i work
-
-```text
-understand the problem
-        ↓
-define the product outcome
-        ↓
-map the workflow and constraints
-        ↓
-choose what deserves to be built
-        ↓
-direct implementation and validate the result
-```
-
-I care about product clarity, strong system boundaries, useful documentation, and honest trade-offs. My role is often to connect the user problem, product direction, and engineering plan. I prefer automating repetitive work or delegating implementation when that creates more time for decisions that require context, judgment, and creativity. Some repositories are prototypes or learning projects; others are ongoing architecture studies.
-
-> connect
-
-[LinkedIn](https://www.linkedin.com/in/aykhan-kherimli-2792b7430) · [GitHub](https://github.com/zephyriaa)
-
-> note
-
-This profile documents an ongoing learning process. The projects here show what I am exploring, directing, and building—not a claim that every component is production-ready. My main interest is the engineering of useful products: deciding what to build, why it matters, how the system should work, and how a team can move it forward.
+</div>
 
 ---
 
-*Products first. Systems clearly defined. Implementation in service of outcomes.*
+## About Me
 
-## References
+I am a computer science researcher and software engineer focused on **high-performance desktop applications**, **quantitative modeling engines**, and **clean systems architecture**.
 
-[1]: https://github.com/zephyriaa/dimbalhesablama "DİM exam score calculator"
-[2]: https://github.com/zephyriaa/strategy-analyzer "Strategy Analyzer"
-[3]: https://github.com/zephyriaa/zterminal "ZTerminal"
-[4]: https://github.com/zephyriaa/algorithms-core "Algorithms Core"
-[5]: https://github.com/zephyriaa/zmusic-android "ZMusic Android"
-[6]: https://github.com/zephyriaa/quant-backtest-engine "Quant Backtest Engine"
+My work bridges disciplined algorithmic fundamentals with modern product engineering—prioritizing local-first privacy, deterministic precision, and zero-distraction interfaces.
 
-## License
+---
 
-See [LICENSE](LICENSE).
+## Technical Arsenal
+
+| Domain | Technologies |
+|---|---|
+| **Core Languages** | `Rust` • `TypeScript` • `Python` • `C++` • `Kotlin` • `SQL` |
+| **Desktop & Systems** | `Tauri v2` • `Web Audio API` • `Tokio` • `Windows APIs` • `Cargo` |
+| **Frontend & Mobile** | `React 19` • `Next.js` • `Vite` • `Android (Jetpack Compose)` • `Tailwind / Modern CSS` |
+| **Quantitative & Data** | `Vectorized Backtesting` • `ORB & Volatility Regimes` • `Order Flow` • `NumPy / Pandas` |
+| **Tooling & Foundations** | `Git` • `Linux / Windows` • `CI/CD Workflows` • `Data Structures & Algorithms` |
+
+---
+
+## Featured Projects
+
+### 🖥️ Native & Desktop Engineering
+
+- **[ZTimer](https://github.com/zephyriaa/ztimer)**
+  *Minimal, precision Pomodoro and focus timer desktop utility.*
+  * Built with **Tauri v2**, **Rust**, **TypeScript**, and **React 19**.
+  * Features a timestamp-based drift-free clock engine (immune to OS sleep/throttling), compact floating pill widget, native tray controls, zero-latency Web Audio meditation chime, and 100% offline local-first privacy.
+
+- **[ZMusic Android](https://github.com/zephyriaa/zmusic-android)**
+  *Modern, reactive Android audio streaming interface.*
+  * Engineered with **Kotlin**, **Jetpack Compose**, and clean **MVVM** reactive state management.
+
+---
+
+### 📈 Quantitative Systems & Finance
+
+- **[ZTerminal](https://github.com/zephyriaa/zterminal)**
+  *Desktop trading workspace for charting, strategy research, and order flow.*
+  * Combines high-frequency chart rendering, strategy development workspaces, and backtesting pipelines.
+
+- **[Quant Backtest Engine](https://github.com/zephyriaa/quant-backtest-engine)**
+  *Modular, vectorized backtesting engine for quantitative research.*
+  * Specialized in Opening Range Breakout (ORB) models, volatility regime classification, and slippage/execution modeling in Python.
+
+- **[Strategy Analyzer](https://github.com/zephyriaa/strategy-analyzer)**
+  *Quantitative validation environment for portfolio metrics, drawdowns, and risk management.*
+
+---
+
+### 🧩 Algorithms & Core Foundations
+
+- **[Algorithms Core](https://github.com/zephyriaa/algorithms-core)**
+  *High-performance, test-backed implementations of fundamental algorithms and data structures in **C++** and **Python**.*
+  * Covers graph traversals, dynamic programming, priority queues, and algorithmic complexity optimizations.
+
+- **[DimBal Hesablama](https://github.com/zephyriaa/dimbalhesablama)**
+  *Interactive Azerbaijani State Examination Center (DIM) scoring rubric and exam calculator.*
+  * Fast, responsive TypeScript web application delivering accurate block calculation and score simulations.
+
+---
+
+## Engineering Philosophy
+
+1. **Local-First & Private**: Software should respect the user. Data stays on the device unless there is an undeniable architectural need to synchronize.
+2. **Deterministic & Drift-Free**: Clocks, backtests, and engines must produce exact, reproducible results regardless of background throttling, OS suspension, or platform idiosyncrasies.
+3. **Restrained Ergonomics**: Zero ads, zero tracking scripts, and no dark patterns. Fast to open, intuitive to operate, and built for focused productivity.
+
+---
+
+## GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zephyriaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Aykhan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zephyriaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed & engineered by <a href="https://github.com/zephyriaa">Aykhan Kherimli</a>. Built with care for open-source engineering.</sub>
+</div>
